@@ -1,0 +1,507 @@
+post_id,date,subreddit,upvotes,comm,ratio,title
+t3_rtw91q,1641081614,Python,10,19,1,Sunday Daily Thread: What's everyone working on this week?
+t3_rvfybl,1641254419,Python,1,0,1,Tuesday Daily Thread: Advanced questions
+t3_rvahuo,1641239971,Python,76,62,0.92,How did you learn python?
+t3_ruytfm,1641206185,Python,352,61,0.87,EMOJILANG: A programming language where you can code using emojis🗿
+t3_rv8i2y,1641234803,Python,66,9,0.94,I created a tool to detect broken __slots__ in Python libraries
+t3_rv8p8m,1641235323,Python,28,12,0.85,Create Your First Reddit Bot with Python and Heroku
+t3_rv5ybi,1641228217,Python,16,0,0.78,Secrets of MicroPython: How to read a knob
+t3_rvbcyz,1641242197,Python,5,0,0.86,Project Althaia - looking for performance/accuracy feedback on my shallow fork of marshmallow
+t3_rv0t98,1641213490,Python,21,5,0.86,Suggestions on how to improve this subreddit
+t3_rv9k9p,1641237532,Python,5,3,0.63,"I compared RNNs, LSTMs, and GRUs performance on the MNIST Digits Dataset"
+t3_ruhi7p,1641152479,Python,332,44,0.97,Pyspark now provides a native Pandas API
+t3_rv8wuf,1641235883,Python,3,0,0.72,A history of the attrs library
+t3_rvdgv1,1641247729,Python,2,0,0.63,Setting up Alembic with SQLAlchemy
+t3_ruwbyl,1641196112,Python,27,23,0.89,Starlite: An Opinionated ASGI Framework
+t3_ruligu,1641163169,Python,150,21,0.94,My TUI library pytermgui just hit its first stable release!
+t3_rv1wil,1641217061,Python,10,7,0.79,Easily run code before and after a given method with supercharge
+t3_rvhx6a,1641259886,Python,1,0,1,How do you deal with analysis paralysis in programming?
+t3_rvhdar,1641258370,Python,0,3,0.5,How do i create a stock program in python
+t3_rvcb8v,1641244696,Python,1,1,0.57,Make Tic Tac Toe in PYTHON and PYGAME! (14 MINS)
+t3_rv8ril,1641235492,Python,4,0,0.83,Calculator by words
+t3_ruz4q1,1641207442,Python,9,4,0.81,HPC Rocket - A tool to run Slurm jobs from CI pipelines
+t3_rutic6,1641186012,Python,22,1,0.89,I made a tutorial for deployment with Python and Heroku.
+t3_rvb1bh,1641241367,Python,0,0,0.5,Build your own Low-Code Business Applications with SpiffWorkflow
+t3_rv3a2r,1641221190,Python,2,0,0.75,Variables in Python - Lecture 2 | Python Course for Beginners
+t3_ruz4nq,1641207434,Python,4,2,1,The HEX Function is a bit mean...
+t3_rulsee,1641163884,Python,38,4,0.91,Sending my university schedule to Google Calendar
+t3_rv7y8t,1641233397,Python,1,0,0.6,Record Chess Moves with Python and Webcam
+t3_rv069b,1641211314,Python,2,1,0.63,Full-length tutorial on deploying Flask app on AWS with Docker + RDS + Secrets Manager
+t3_rugct0,1641149473,Python,63,31,0.87,"If you would implement the Singleton pattern, which approach would you use? Metaclass, Decorator, Classic Approach?"
+t3_ruxp6q,1641201738,Python,4,0,1,An introduction to data oriented programming
+t3_rv3gfm,1641221696,Python,1,0,1,"Check out the Python on Microcontrollers newsletter, out every Tuesday"
+t3_ru8rfe,1641126840,Python,111,15,0.87,Task management tool written in Python that does more than taskwarrior
+t3_rulp1f,1641163644,Python,16,14,0.88,Best way to validate active subscription to software?
+t3_ruw2w9,1641195117,Python,2,9,0.55,I made a temperature conversion tool with a fail-safe. Here's the code:
+t3_ru7a1d,1641120457,Python,117,54,0.87,Simple Random Password Generator
+t3_rv0j3f,1641212563,Python,1,0,0.6,✔ 2022 Python Programming (Beginner To Advanced)
+t3_runc8j,1641168012,Python,6,10,0.75,Monday Daily Thread: Project ideas!
+t3_ruovw2,1641172316,Python,3,5,0.71,Price Tracker
+t3_rtrduz,1641067921,Python,443,50,0.96,Finally a proper email sender
+t3_ruwgsz,1641196667,Python,0,15,0.25,Run Python files with an application
+t3_ru8ez1,1641125449,Python,17,8,0.6,The Ultimate Guide to Comments and Docstrings in Python | Everything you need to know
+t3_ru0v3j,1641095605,Python,75,11,0.92,Python extensions in Rust -- Lessons learned from upgrading a bioinformatics package
+t3_ruvaih,1641192079,Python,0,3,0.38,Javascript Vs Python For Web Development
+t3_rubjtu,1641136357,Python,6,3,0.71,Why You Should Use Python Data Classes
+t3_rtjh63,1641043887,Python,280,15,0.96,Master Dataclasses in Python Part 3 - Ordering of Dataclasses
+t3_ruk2j4,1641159413,Python,0,2,0.36,Handy Python Functions
+t3_rttq9n,1641074466,Python,25,3,0.92,Space Science with Python - Part 20: Tisserand's Parameter Space
+t3_rtu1s1,1641075354,Python,22,3,0.82,One of my favorite videos on concurrency in Python (using Trio)
+t3_rtk8gx,1641046553,Python,73,23,0.88,"Web scraping and bypassing ""Activate and hold the button to confirm"""
+t3_rtw3k1,1641081170,Python,10,2,0.92,Tool to extract data from Docx files
+t3_rucwjm,1641140159,Python,0,1,0.33,Naruto Best Quotes Using Python
+t3_rtssjw,1641071859,Python,11,5,0.92,Targe - Authorisation library for python
+t3_rtx3rr,1641084088,Python,4,3,0.83,My first usefull code - simple automatique watering system (C&amp;C and improvement welcome)
+t3_rtzc3y,1641090825,Python,2,1,0.75,What are the best open source projects where you can intelligently insert objects into pictures?
+t3_rt0p1i,1640977072,Python,636,151,0.87,"Guido van Rossum - Python 4.0 will never arrive🤚😔: ""Thеrе will probably nеvеr bе a 4.0 and wе’ll continuе until 3.33, at lеast."" - Sabrina Carpenter [Medium] Then, evidently, we will get a Python 'Pi'"
+t3_rtmbj8,1641053353,Python,4,0,0.84,Playing and controlling Atari 2600 Missile command using your hands as motion controls [Project]
+t3_rti8of,1641039009,Python,10,7,0.75,Storing Selenium Scraper Progress
+t3_rtuqh3,1641077282,Python,1,0,1,SQLAlchemy Core: Where Clause w/Multiple Conjuctions
+t3_rtt4cc,1641072777,Python,0,5,0.38,"GitHub - Goldziher/starlite: Light, Flexible and Extensible ASGI API framework"
+t3_rsug06,1640959034,Python,280,10,0.97,"About 4 months ago, I showcased a LazyRemote here that allows you to access your PC media controls from a phone. Now, I present to you the next update, Lazy-Remote Mouse which mimics a trackpad and allows you to control your mouse pointer from your phone."
+t3_rt3apo,1640984819,Python,72,30,0.94,Developing a Python database ORM with a different philosophy than existing ORMs like SQLAlchemy
+t3_ru258w,1641099791,Python,0,1,0.18,How to setup VSCode for Python
+t3_rt1xlj,1640980727,Python,42,2,0.9,My latest Python project: a tool for visualising Python Abstract Syntax Trees
+t3_rsrgxl,1640948144,Python,86,5,0.93,Coding journey and project ideas for 2022
+t3_rt7q3x,1640998538,Python,7,2,0.77,"Building a clock from Quart, socket.io, and React inside a Docker container"
+t3_rt0z2j,1640977885,Python,17,0,0.96,Visualization of optimizers on different mathematical functions
+t3_rsgyki,1640911396,Python,371,121,0.93,"My 7 yr old little brother has Autism and has been very interested in Python lately, what resources can I give him so he can learn programming completely and properly?"
+t3_rt6orx,1640995213,Python,3,0,1,Saturday Daily Thread: Resource Request and Sharing! Daily Thread
+t3_rs2utp,1640873951,Python,1353,484,0.94,A strongly typed dialect of Python is coming. I would like to humbly suggest a name for it.
+t3_rsl1lc,1640923824,Python,41,9,0.84,Use Signals to Safely Stop processes
+t3_rtgo3t,1641032389,Python,0,0,0.1,Creating virtual environments in Python
+t3_rt12u0,1640978184,Python,1,9,0.56,PyPrograming Starter
+t3_rsim66,1640916314,Python,14,0,0.86,"Edupyter, a new dev env for schools / universities on Windows (no admin rights needed) with Python + Juptyter + Thonny + Console"
+t3_rs7vah,1640887253,Python,46,7,0.94,I made Python web app without using any web frameworks
+t3_rscgp3,1640899036,Python,22,4,0.93,GitHub - uktrade/stream-zip: Python function to construct a ZIP archive with on the fly - without having to store the entire ZIP in memory or disk
+t3_rscmfo,1640899451,Python,20,5,0.83,I built a where to live app using python and PostGIS
+t3_rshn4p,1640913483,Python,8,11,1,Feedback Request: Utilities for web scraping
+t3_rsaj9t,1640894052,Python,17,0,0.95,Financial Stock Analysis using the Yahoo Finance Python library and Jupyter Notebook
+t3_rsg38r,1640908813,Python,4,0,0.84,Friday Daily Thread: Free chat Friday! Daily Thread
+t3_rra22x,1640789999,Python,2048,193,0.96,Ever heard of Black? This is the opposite. A tool to turn your clean python code into a hideous (working) mess.
+t3_rs6llm,1640884017,Python,13,0,0.93,PID Simulator
+t3_rsarqd,1640894660,Python,6,0,0.8,Cat Data Pages - Flask project using TheCatAPI
+t3_rs3u2f,1640876715,Python,11,1,0.79,Full-length tutorial on adding automated CI (continuous integration) to your Python projects with GitHub Actions
+t3_rrr1id,1640834315,Python,40,11,0.92,The multiprocessing library doesn't work in AWS Lambda functions. So I wrote one that does
+t3_rs81ar,1640887661,Python,2,0,0.75,Water Jugs problem
+t3_rsagwc,1640893877,Python,1,0,0.56,Understand operator overloading in Python in just 9 minutes.
+t3_rs7ysy,1640887486,Python,1,0,0.67,Web api benchmarking: Python (Falcon) vs Rust (Warp)
+t3_rs0ff3,1640866400,Python,2,0,0.76,Release announcement: `e2j2`v0.7.1
+t3_rrmdyp,1640821330,Python,12,19,0.61,"The Oracle, an open-source Python library to predict the stock market with AI 🤖"
+t3_rrwbfq,1640851365,Python,2,1,1,Media pipe finger counter
+t3_rr5cs3,1640774571,Python,84,54,0.97,What is the best strategy to align coding practice across the team?
+t3_rrjoob,1640814371,Python,12,1,0.85,Tutorial - Generative Art With Python
+t3_rrxz59,1640857486,Python,1,4,1,Request for feedback: how can we make it easier to troubleshoot Python applications on Kubernetes?
+t3_rrc13l,1640795200,Python,20,2,0.89,"Open source package urllib3 raised $15,000 in 2021"
+t3_rs38wi,1640875073,Python,0,0,0.29,Learn how to wish Merry Christmas using Python Turtle Program
+t3_rrilbu,1640811635,Python,8,9,0.73,Why is Python relatively slow even compared to some dynamic programming languages?
+t3_rrlz4o,1640820237,Python,4,2,0.75,Python Type Hints - How to Handle Optional Imports - Adam Johnson
+t3_rqwuhb,1640745232,Python,162,13,0.96,"I made a cli snake game being a begginer, Im so happy:3"
+t3_rrl0mr,1640817739,Python,4,0,0.71,My website that allows you to convert an audio/video file to another format. Flask backend.
+t3_rr7c7n,1640781713,Python,23,20,0.88,Piou - Build beautiful command-line interfaces with type validation
+t3_rrd4yh,1640797998,Python,9,2,0.79,Universalasync – create sync and async libraries at the same time maintaining one codebase
+t3_rrdhzq,1640798921,Python,9,0,0.75,"Learn Python ASTs, by building your own linter"
+t3_re46xx,1639242936,datascience,317,516,0.97,[Official] 2021 End of Year Salary Sharing thread
+t3_ru89hj,1641124831,datascience,3,43,1,Weekly Entering &amp; Transitioning Thread | 02 Jan 2022 - 09 Jan 2022
+t3_rv1tpg,1641216817,datascience,177,39,0.97,"Revisiting the ""The Sexiest Job of the 21st Century"" article a decade later: What still remains true and what is no longer true about the industry from the article? And have their speculations bore out?"
+t3_rvb2jt,1641241456,datascience,11,2,0.74,The Best Machine Learning Courses on Udemy (2022)
+t3_rut3fw,1641184686,datascience,152,70,0.93,"The data science field is very exhausting and consume much of our time, so what else do you do beside your work or study in this domain, that helps you to give your brain a break from it ?"
+t3_runqoo,1641169075,datascience,190,25,0.97,Maybe someone looking for a data science job in soccer - AS Roma is looking for a Data Analytics Manager
+t3_rv3ep7,1641221560,datascience,9,14,0.8,Advice on Freelancing in DS
+t3_rvdra2,1641248473,datascience,2,2,1,"Automated, relevant, business performance insights?"
+t3_rvgybs,1641257193,datascience,1,1,0.6,Just learned Command line and Bash....now what?
+t3_rv4ppz,1641225073,datascience,4,2,0.75,NLP: Hybridization of statistical approach and expert system ?
+t3_rv09mp,1641211640,datascience,6,10,0.76,What are your 2022 goals? And what is your system to reach them?
+t3_rvdbu6,1641247372,datascience,1,0,1,Better Method to Predict Frequency/Timing of Payment
+t3_rvce7y,1641244916,datascience,0,3,0.5,What should I expect for product case study in the interview?
+t3_rvcahp,1641244640,datascience,1,5,0.67,"Graduate in 2023, want to work as a business analyst but haven't learned any DS languages yet"
+t3_rvc6yr,1641244377,datascience,0,0,0.33,The Benefits of NLP (Natural Language Processing) In Business Analytics
+t3_rv1s9m,1641216706,datascience,4,0,0.83,A good course about DS with Big Data
+t3_rvb5nt,1641241678,datascience,1,0,1,Helping Business Analysts Understand Data Science and Machine Learning
+t3_ruyogo,1641205662,datascience,5,8,0.78,What's the best Python notebook setup for data analysis?
+t3_rvad4n,1641239623,datascience,0,0,0.5,Can you connect PyCharm Community to Microsoft SQL Server?
+t3_rva6xp,1641239178,datascience,0,13,0.5,Experienced Data Scientists : On what do you spend your most time on at work?
+t3_rv9qt3,1641238011,datascience,1,2,0.6,Report Framework - Trying to move away from Excel for report creation and management
+t3_rum01f,1641164444,datascience,40,23,0.83,Is there a lot of writing code in data science?
+t3_ruw6x4,1641195558,datascience,7,7,0.77,Has anyone ever dealt with passive-aggressive bullying in the workplace?
+t3_rvduvn,1641248730,datascience,0,1,0.25,Data science and personal finance
+t3_rvdumf,1641248713,datascience,0,0,0.25,Please advice me
+t3_rv8iok,1641234848,datascience,1,3,0.67,"Data Scientists working in healthcare, how do you keep abreast of the latest developments?"
+t3_rv8i8s,1641234816,datascience,0,3,0.5,Ideas for relevant data-related tasks I can do in my internship?
+t3_rv6qig,1641230241,datascience,1,1,1,I need some guidance - should I do a cert with my MS or something else?
+t3_rv5u4i,1641227935,datascience,0,10,0.5,"Project, Tried 6/7 models, all give bad accuracy."
+t3_rv2w2p,1641220051,datascience,1,4,0.6,Cracking the DS coding interviews
+t3_ruy0xd,1641203061,datascience,2,1,0.75,Can anyone explain about the difference in scope of work between Data Analyst and Market Researcher?
+t3_ru4vnt,1641110028,datascience,190,77,0.88,Is medium even proofreading submissions at all?
+t3_rv4ils,1641224545,datascience,0,5,0.25,Can I get away with using R Studio to run Python code only? Or will I have to eventually switch to a different platform?
+t3_ruol4k,1641171466,datascience,7,3,0.74,Do you use Reinforcement Learning in your work as a data scientist ? How ? What are the applications ?
+t3_ruve8z,1641192461,datascience,2,5,0.75,What are the common applications of ML in Fintech companies ?
+t3_ruyo93,1641205636,datascience,0,0,0.5,Top 10 Object Detection APIs
+t3_ruy59g,1641203574,datascience,0,0,0.33,Reading scala/spark xgboost model in python
+t3_ruq3vw,1641175703,datascience,4,2,0.7,What're your favorite tools in 2022? What do you wish someone would build?
+t3_rutueh,1641187030,datascience,3,3,0.67,How can I best set myself up for success switching careers to data science?
+t3_ruok3r,1641171385,datascience,4,0,0.83,Interrupted Time Series (ITS) in Python
+t3_rv4f5l,1641224302,datascience,0,8,0.36,Data science is just numbers in a sausage machine
+t3_ruw5gf,1641195388,datascience,0,4,0.33,Planning for Masters in MIS/MSIS master with BA/BI electives
+t3_rukocc,1641160958,datascience,4,0,0.84,Better refraction methods?
+t3_ruu4qk,1641187977,datascience,1,2,0.67,How to validate data integrity?
+t3_ru2l7z,1641101309,datascience,64,35,0.9,From Data Science to Software Engineer (SWE)
+t3_run8o2,1641167744,datascience,0,25,0.5,Is Facebook Prophet an awful package that led to Zillow blowing up?
+t3_rv0gf5,1641212316,datascience,0,0,0.22,Hey guys!
+t3_rujm5v,1641158037,datascience,2,6,0.67,Recommended service for deploying a model online for multiple users to add to a central database
+t3_rut7o8,1641185066,datascience,0,4,0.4,Looking to enter the field. Have some questions
+t3_rufpw8,1641147763,datascience,1,9,0.55,Is VBA transferable to other languages?
+t3_ru5csn,1641112041,datascience,13,6,0.81,Anyone here doing cricket analytics? Could you give some good research papers on how to analyze the games?
+t3_rto1f0,1641058413,datascience,184,20,0.88,A (semi-snarky) Request: Write better questions!
+t3_runk1l,1641168571,datascience,0,2,0.33,Career advice for transitioning from computer vision to data science ?
+t3_rtklxg,1641047846,datascience,80,2,0.94,Interesting 2021 paper roundup from a CMU econ prof. Lots on forecasting!
+t3_ru5fgg,1641112368,datascience,1,14,0.67,What is your team function within your organisation?
+t3_rtmnb3,1641054355,datascience,10,15,0.82,Intentionally Null cell values
+t3_rt4ruy,1640989276,datascience,144,70,0.87,Is this subreddit for data analysts or just data scientists?
+t3_rtsp1g,1641071582,datascience,1,4,0.67,Partial Least Squares Regression Question
+t3_rt00a8,1640975016,datascience,116,53,0.91,Self worth tied to model performance
+t3_rtter0,1641073588,datascience,0,52,0.45,Is it ethically right to pirate a course?
+t3_rsfdlx,1640906797,datascience,821,176,0.98,"To the companies that send candidates a 3 hour take-home test, and then say their corporate policy does not permit feedback after one is rejected..."
+t3_rtov1g,1641060776,datascience,0,32,0.4,People have been telling me bootcamps are a scam and they out there just to get your money. I also believed college degrees is the only way until colleges everywhere starting to have their own bootcamps. Are they scamming people in doing bootcamps?
+t3_rt2mdq,1640982794,datascience,8,11,0.79,How to do data pre-processing in production
+t3_rt3tpl,1640986396,datascience,4,24,0.67,How was your graduation project ?
+t3_rsza5r,1640972953,datascience,3,3,0.67,Classifying the Political Compass - what method?
+t3_rs9ggc,1640891268,datascience,73,30,0.94,How to deal with feature selection?
+t3_rsjx9k,1640920268,datascience,8,2,0.9,Nonlinear Programming in R?
+t3_rrzswd,1640864182,datascience,133,35,0.96,How do you reduce information leakage and bias when going from descriptive analytics to prescriptive analytics?
+t3_rsb6l4,1640895729,datascience,14,23,0.82,Do portfolios matter if you have &gt; 2 years of experience?
+t3_rs3dch,1640875417,datascience,35,8,0.84,Interesting read about data storytelling: Why You Need to Tell a Story With Your Data
+t3_rsbbjg,1640896090,datascience,9,16,0.84,A graceful exit?
+t3_rslgqn,1640925225,datascience,1,14,0.67,Create data lake?
+t3_rrlw8y,1640820029,datascience,111,56,0.94,"The more I think of my data career, the more anxious I become (mid career)"
+t3_rr7cn2,1640781749,datascience,486,28,0.97,A simple and effective way to go from beginner to intermediate level of ML knowledge
+t3_rraolv,1640791663,datascience,197,45,0.95,really feel like Data Science gets romanticized and people don't talk about the support aspect.
+t3_rrchxx,1640796400,datascience,81,10,0.98,"The PyMC developers wrote a book! "" Bayesian Modeling and Computation in Python"" Detailed ToC screenshotted, link to publisher's page in first photo"
+t3_rrbmaz,1640794125,datascience,31,49,0.94,I made a modern data catalog tool for anyone using a word document or excel sheet as a data catalog. I’m curious if anyone would like to try it out.
+t3_rra7t0,1640790396,datascience,29,10,0.91,Friendly reminder to just go ahead and set up git on everything
+t3_rrt76h,1640840779,datascience,1,3,0.57,How to find monthly google searches for a specific keyword?
+t3_rrfk82,1640804066,datascience,7,8,1,Does anyone know a good resource for making the map in this New York Times article?
+t3_rqz1lp,1640751855,datascience,95,88,0.96,"Looking back on what you know now, what concepts took you a surprising amount of effort and time to truly understand?"
+t3_rr8i51,1640785440,datascience,11,16,0.87,"Does it make sense doing stats tests (like ttests, chi-square etc) to better select the predictors in a supervised model?"
+t3_rqzpl1,1640753988,datascience,39,59,0.85,"What's stopping data scientists from applying to remote-only roles in a high cost of living, high-paying locations like California and living in a low cost of living location?"
+t3_rrh6uh,1640808101,datascience,2,4,1,Is Topological Data Analysis useful for time series data?
+t3_rr6rtt,1640779797,datascience,7,6,0.89,Transitioning from corporate to Bioinformatics Research
+t3_rqysab,1640751054,datascience,12,11,0.8,What is the data science and ML job market like in Australia?
+t3_rqdlmi,1640690173,datascience,236,112,0.89,Is Data Science 90% boring and 10% mega-interesting?
+t3_rqqxwk,1640728933,datascience,16,8,0.85,Soft Skills/ Calm down a unhappy client
+t3_rqhe0k,1640702645,datascience,30,7,0.89,What kind of analysis I should conduct to see impact from multivariate time-series data?
+t3_rqy5te,1640749157,datascience,0,2,0.44,"Which data science/ML development processes would you like to see more automated (i.e., have a Python library for)?"
+t3_rq0y5g,1640649044,datascience,121,73,0.94,Is decision science really a thing? Or is it more marketing buzz?
+t3_rqm2pb,1640715646,datascience,5,21,0.63,Graphics for data?
+t3_rqnz3n,1640720882,datascience,1,0,1,Help using Metaknowledge for bibliometric analysis
+t3_rprvb4,1640624476,datascience,134,29,0.97,Books on Model Deployment
+t3_rq3p2g,1640657014,datascience,22,8,0.86,"What's the deal with ""manual entry"" job applications?"
+t3_rqd7ep,1640688608,datascience,2,2,0.63,legalities of collection and Redistribution of information from APIs or web scraping.
+t3_rq7jam,1640668272,datascience,10,4,0.75,This paper is a little over my head but I am excited about quantifying non-monotonic associations between variables. What's your take?
+t3_rqin2x,1640706211,datascience,1,0,0.67,Search: interesting topic in data quality assessment
+t3_rqfxhd,1640698226,datascience,1,2,0.56,Best websites (paid) for historical tick data for Equities/ETFs/Indices
+t3_rozxuk,1640535235,datascience,1892,67,0.96,What Companies think AI looks like vs What Actually it is
+t3_rpvvh5,1640635202,datascience,6,0,0.69,COVID case data and US airline travel data together in a panel regression. 😱🦠
+t3_rplch6,1640603807,datascience,13,19,0.88,Model agnostic feature importance
+t3_rvb96k,1641241921,SQL,4,3,0.76,Help with a Join
+t3_rv06sa,1641211362,SQL,18,4,0.95,help with SQL query
+t3_rv1n3i,1641216250,SQL,9,7,0.92,When would one want to use a composite key rather than a surrogate key?
+t3_rv317a,1641220461,SQL,5,3,0.74,Removing pure integers from values
+t3_ruz4ze,1641207470,SQL,10,26,0.92,Is it recommended to change the data type of a column from varchar to int if possible eventhough varchar would be more intuitive? Would there be a benefit in terms of speed that is worth it?
+t3_rvebje,1641249946,SQL,1,0,1,Help with Terminal
+t3_rvdr3e,1641248459,SQL,0,2,0.5,Subqueries : learning path
+t3_rvcaqq,1641244659,SQL,1,2,1,Grouping by one column but counting values in another
+t3_rvbm2a,1641242871,SQL,1,0,1,XAMPP - cannot start mysql on Mac
+t3_rv9uvy,1641238309,SQL,1,2,1,"SQL Query date range shows current year. With 2022 just beginning, how do I adjust the query so that it automatically shows Q4 of the prior year only in the case that it is currently Q1?"
+t3_rukrz6,1641161236,SQL,33,23,0.96,"I finished SQLbolt and after trying some problems on HackerRank, I notice some answers use REGEXP but I haven't learned that yet. What resource should I use next to learn the ""next level"" of SQL?"
+t3_rv4v3u,1641225482,SQL,1,3,1,Getting start time from a datetime range in SQL Server
+t3_rv2vjv,1641220003,SQL,1,3,0.67,Help with Interview Question
+t3_ruyuwm,1641206376,SQL,2,1,1,Some intermediate project ideas that can use sql as database
+t3_rus6do,1641181829,SQL,7,8,0.83,"Beginner/intermediate: how to actually answer ""practical"" questions?"
+t3_ruqymq,1641178135,SQL,6,4,0.81,SQL Query Help Needed
+t3_ruxi2k,1641200914,SQL,2,2,0.75,Beginner Unsure of How to Structure Database
+t3_ruqg1e,1641176640,SQL,7,0,0.83,Updated PostgreSQL and Pgadmin - I can no longer dump my file
+t3_rukvku,1641161495,SQL,11,13,0.87,How would you approach a DB that has no ERD available for review
+t3_rujj8a,1641157835,SQL,3,25,0.72,Is there really no way to restore an individual table?
+t3_ru7ild,1641121511,SQL,14,0,0.84,Importing Large SQL File in MySQL Database
+t3_ruae10,1641132703,SQL,4,10,0.84,"Need SQL Statement Help, Please!"
+t3_ru2efi,1641100666,SQL,10,24,0.86,What is best SQL editor ?
+t3_ruars3,1641133953,SQL,1,20,0.53,Are there any jobs available for someone with python and SQL(as well as certifications in other disciplines)???
+t3_rtn9lf,1641056205,SQL,51,22,0.95,What career paths can I go down after learning SQL? I understand I have to learn other tools so I'm trying to figure out what else to learn depending on the career path
+t3_rtuq4t,1641077255,SQL,16,8,0.85,How to Approach SQL questions in Interview
+t3_ru03bl,1641093186,SQL,3,15,0.81,Newbie - Should I break this into multiple tables?
+t3_ru1ubm,1641098774,SQL,1,5,0.56,How to find a job that uses mainly SQL ?
+t3_rton57,1641060137,SQL,13,13,1,Need help writing an SQL statement
+t3_rtse7p,1641070761,SQL,6,5,0.88,"Need advice, trying to jump start career in SQL"
+t3_rti83n,1641038944,SQL,24,11,0.95,How do I progress with SQL?
+t3_ru1bgy,1641097044,SQL,1,18,0.6,MS SQL Server and Python
+t3_rtq7hg,1641064597,SQL,2,0,1,SQL language proposal: JOIN FOREIGN
+t3_rtdxxr,1641020760,SQL,9,39,1,Swap columns with a condition
+t3_rt3d9a,1640985035,SQL,8,13,0.84,How would you model a file tree?
+t3_rsrav0,1640947445,SQL,51,45,0.84,"Gave myself a week to learn SQL and complete and assignment, it is not going well"
+t3_rsrbvr,1640947569,SQL,5,13,0.74,How to structure a DB with many identical dates ?
+t3_rsck39,1640899285,SQL,25,37,0.91,Job Options
+t3_rslds3,1640924962,SQL,5,3,0.74,To the CLOUD!! Best strategy?
+t3_rsja4i,1640918305,SQL,3,16,0.81,PostgreSQL query to SQL
+t3_rsntd1,1640933522,SQL,1,2,0.67,SQL CodeSignal Assessment Tips/Help?!
+t3_rsavsu,1640894966,SQL,2,8,0.61,Alphanumeric Sort with Numbers and Letters
+t3_rru1re,1640843480,SQL,26,29,0.9,Using SQL as a life database?
+t3_rrybeg,1640858740,SQL,5,10,0.74,Complicated calculations - should be done on query or locally?
+t3_rs6asx,1640883276,SQL,0,5,0.5,Woah a Motherload of Questions :)
+t3_rry3ei,1640857928,SQL,3,0,0.81,bipp Visual SQL Data Explorer - Get Your Database to Charts Easily
+t3_rs2xpw,1640874156,SQL,1,3,0.6,Looking for resources
+t3_rrer7n,1640802054,SQL,15,15,0.88,How to make a table with all distinct values in a table
+t3_rrh2lb,1640807825,SQL,7,5,0.7,Looking for advice to improve SQL
+t3_rreq9w,1640801998,SQL,7,6,0.83,Question about storing currency exhange rates
+t3_rri7p4,1640810668,SQL,6,1,0.81,SQLite: How do you condense the .sqlite-shm and .sqlite-wal files into the main .sqlite?
+t3_rrs6i3,1640837673,SQL,1,3,0.67,LISTAGG with conditions
+t3_rrcavd,1640795917,SQL,9,2,0.75,EdX SQL Courses
+t3_rrfzrn,1640805125,SQL,4,6,0.71,Help: how can I count users in intervals of 3 months in a clever way?
+t3_rrhfbz,1640808684,SQL,2,0,0.67,Data Parse Error in Cursor
+t3_rrgnsd,1640806779,SQL,2,5,0.67,[PostgreSQL] Inserting one column into a table by selecting one column from another table
+t3_rrddtg,1640798613,SQL,2,3,0.59,Newbie - how should I normalize this? to 3NF
+t3_rre427,1640800483,SQL,2,13,0.67,"Need thoughts on optimizing this query, or changing direction on how I approach (MSSQL Azure SQL)."
+t3_rr9yl7,1640789716,SQL,3,9,0.68,Expectations on weekends
+t3_rr5bcr,1640774425,SQL,5,1,0.73,Merge 2 decrypted WhatsApp DBs into one
+t3_rrankq,1640791579,SQL,1,9,0.6,Query returns data only on Order side and ignores Tour side
+t3_rre15h,1640800275,SQL,0,4,0.4,Practical uses of Coalesce using the Adventureworks Database as an example?
+t3_rqxtcp,1640748133,SQL,5,5,0.86,Guidance with UNPIVOT errors
+t3_rqlhuw,1640714097,SQL,26,8,0.87,Need recommendation to become better!
+t3_rqsung,1640734028,SQL,8,1,0.9,Name my database...
+t3_rr3mxh,1640767878,SQL,1,3,0.67,Summing durations by day using start/end timestamps
+t3_rr0tdl,1640757504,SQL,1,1,0.67,how to select where-in and limit N per foreign key? (pg)
+t3_rqr3ua,1640729362,SQL,4,13,0.76,"When creating a View or Materialized view is PostgreSQL essentially doing ""memoization""?"
+t3_rqzhs4,1640753272,SQL,0,23,0.5,can anyone tell me what I did wrong?
+t3_rqecvn,1640693062,SQL,11,9,0.71,Data Analytics Mentorship
+t3_rqp3tp,1640723993,SQL,1,2,0.6,[Seeking Advice] Determining the correct application to carry out a task
+t3_rqatqi,1640679407,SQL,8,2,0.8,Are there recomendations from Microsoft regarding what action groups to audit on MSSQL
+t3_rq3jyw,1640656626,SQL,21,28,0.84,SQL/ETL JOBS
+t3_rq99se,1640673887,SQL,8,5,0.91,How to avoid redundant data between parent and child records in a hierarchical table?
+t3_rqc43q,1640684285,SQL,3,3,0.81,Absolut beginner. How do I match my query to a certain stored format?
+t3_rqi364,1640704642,SQL,1,10,0.56,Which NoSQL DB are you using in your organization?
+t3_rqf2px,1640695512,SQL,1,7,0.55,Any tips or resources on learning SQL for access?
+t3_rq6fj8,1640664880,SQL,3,5,0.65,I cannot find my error.
+t3_rqcv4v,1640687165,SQL,0,8,0.5,"[MS SQL] How to insert all data from ""inserted"" table in trigger?"
+t3_rpwfyw,1640636708,SQL,11,19,0.78,Is it a good idea to store images in a SQL-like database?
+t3_rpm9ya,1640607261,SQL,45,37,0.92,"Do you give use Vim for SQL. It took me a while to setup this. sqls - lang server (auto complete), dadbodUI (view table, execute and save query), prettier-sql (format code on save)."
+t3_rpzigb,1640645020,SQL,8,5,0.76,Need assistance with relating two rows of the same table
+t3_rqauak,1640679466,SQL,1,0,0.56,Tips on solving difficult SQL interview questions
+t3_rpvgrc,1640634081,SQL,9,13,0.79,Limitations of SQLite as read only server side API ?
+t3_rq70gm,1640666661,SQL,1,11,0.6,Newbie - Should this table be indexed in this situation?
+t3_rpis9k,1640593683,SQL,40,5,0.95,SQL Query Optimization with Indexing
+t3_rq6jjp,1640665215,SQL,0,0,0.5,Generating a sequence of timestamps by minute
+t3_rpokzk,1640615011,SQL,10,0,0.92,Connecting MySQL to a Google Data Studio.
+t3_rpvgjp,1640634066,SQL,2,12,0.63,Sorting takes a long time on large data sets
+t3_rpkeg3,1640600029,SQL,14,15,0.78,I got a job in HR - should I upskill in SQL?
+t3_rplw9c,1640605870,SQL,8,6,0.91,Help with SQLite 3 in Node.js?
+t3_rplwxn,1640605936,SQL,3,0,0.8,"Understand &amp; develop your own Distributed SQL syntax, and implement it in development lifecycle (i.e. demand analysis, design, development &amp; testing). More in the article, no paywall:"
+t3_rpfnpi,1640582496,SQL,7,3,1,How do you organize?
+t3_rpixqx,1640594277,SQL,1,3,0.6,How to Select Latest Partition in Oracle DB
+t3_ro0xjz,1640401074,SQL,780,15,0.97,Happy Holidays!
+t3_ro8efz,1640432829,SQL,4,3,0.83,Which are the some of the best SQL certifications ?
+t3_ro4xpr,1640416967,SQL,1,0,1,Check previous stock location
+t3_roau89,1640442867,SQL,0,5,0.25,SQL Training Week
+t3_ro2bt1,1640406410,SQL,0,2,0.5,SQL Training Week
+t3_rnd4cc,1640317281,SQL,56,33,0.95,"Dumb question: how do you pronounce ""postgres""..."
+t3_rucjmx,1641139214,MachineLearning,5,23,0.74,[D] Simple Questions Thread
+t3_ruja9s,1641157205,MachineLearning,2,1,0.63,[D] Machine Learning - WAYR (What Are You Reading) - Week 128
+t3_rv2j9k,1641219010,MachineLearning,221,23,0.98,[R] The Illustrated Retrieval Transformer (GPT3 performance at 4% the size)
+t3_rvadz4,1641239687,MachineLearning,22,3,0.96,[R] 🐸YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone
+t3_rutbpv,1641185429,MachineLearning,225,19,0.96,"[R] A Neural Network Solves and Generates Mathematics Problems by Program Synthesis: Calculus, Differential Equations, Linear Algebra, and More"
+t3_rv4u2w,1641225400,MachineLearning,22,20,0.87,[D] Paper that mathematically proves that gradient descent can achieve zero training error.
+t3_rur2j3,1641178454,MachineLearning,152,19,0.94,[P] I like YOLOv5 but the code complexity is...
+t3_rv37yq,1641221013,MachineLearning,8,8,0.75,[D] What are your hopes for Machine Learning in 2022?
+t3_rv7yos,1641233428,MachineLearning,2,2,1,[D] How to measure accuracy of kNN Imputation?
+t3_ruaew1,1641132781,MachineLearning,314,12,0.97,[R] Learning 3D Representations from 2D Images
+t3_rva1dk,1641238769,MachineLearning,0,3,0.33,"[D] ""why academia tends to under-invest in engineering infrastructure?"""
+t3_ruwchh,1641196174,MachineLearning,3,12,0.57,[D] Spotted this post in LessWrong. Can anyone verify the rather fantastic claims being made here?
+t3_ruyk5i,1641205194,MachineLearning,2,3,0.63,"[R] New paper: ""A relational Tsetlin machine with applications to natural language understanding"""
+t3_rv4nah,1641224900,MachineLearning,1,0,0.6,[D] NLP: Hybridization of statistical approach and expert system ?
+t3_rv3yty,1641223088,MachineLearning,0,3,0.4,"[P] Bringing serverless to ML - stateful, arbitrary dependency, serverless for ML"
+t3_ruz0nc,1641207011,MachineLearning,0,1,0.5,[D] What causes feature collapse?
+t3_rur95m,1641178986,MachineLearning,2,4,0.58,[D] Anyone switched from vision to robotics?
+t3_ruwidq,1641196825,MachineLearning,0,6,0.5,[D] How to deal with huge Categorical data
+t3_rtsmm7,1641071389,MachineLearning,482,34,0.82,[P] DeepCreamPy - Decensoring Hentai with Deep Neural Networks
+t3_ruj3ja,1641156692,MachineLearning,6,6,0.8,[D] ICLR 2022 Open Discussion Quality
+t3_ru91o8,1641127978,MachineLearning,25,2,0.86,"[D] Paper Explained &amp; Author Interview - Player of Games: All the games, one algorithm! (Video Walkthrough)"
+t3_ru06dy,1641093453,MachineLearning,96,50,0.94,[D] Coding Practices
+t3_ruofql,1641171033,MachineLearning,0,8,0.44,[D] GUI-based Machine Learning applications?
+t3_ru5xw8,1641114571,MachineLearning,16,35,0.68,[D] Are NN actually overparametrized?
+t3_rum37y,1641164663,MachineLearning,0,0,0.5,[R] A Comparison Of The Program Synthesis Performance Of GitHub Copilot And Genetic Programming
+t3_rut9hs,1641185228,MachineLearning,0,3,0.2,[D] Is there flow-based method which treats input data as different lengths each?
+t3_rtlx0r,1641052117,MachineLearning,298,10,0.98,[R] MT3: Multi-Task Multitrack Music Transcription
+t3_ru70fv,1641119273,MachineLearning,9,3,0.91,[D] Raising errors while using accelerators
+t3_ru7drf,1641120935,MachineLearning,1,0,0.67,"[P] Quick-Deploy - Optimize, convert and deploy machine learning models"
+t3_rtndgm,1641056502,MachineLearning,25,1,0.82,[D] Best Practices in Machine Learning
+t3_rud2m5,1641140624,MachineLearning,0,1,0.2,[P] Tensorflow / Keras implementation of Vision Transformer https://arxiv.org/abs/2010.11929v2
+t3_ru8n14,1641126359,MachineLearning,0,0,0.33,"[Research][Project] The top 10 AI/Computer Vision papers in 2021 with video demos, articles, and code for each!"
+t3_rtrbso,1641067758,MachineLearning,4,6,0.67,"""[R]"" Neuron outputs as weights"
+t3_rtd1jl,1641017200,MachineLearning,47,0,0.82,BERT Goes Shopping: Comparing Distributional Models for Product Representations (Paper Walkthrough) [D]
+t3_ru7k5y,1641121715,MachineLearning,0,2,0.33,[D] Machine Learning Research
+t3_rtukp2,1641076823,MachineLearning,0,4,0.25,[D] Plug or Integrate a GNN Pytorch code base into Spark Cluster
+t3_rt1vfy,1640980539,MachineLearning,67,7,0.96,[P] Play around with StyleGAN2 in your browser
+t3_rsstqr,1640953445,MachineLearning,240,11,0.96,[P] Top arXiv Machine Learning papers in 2021 according to metacurate.io
+t3_rtmf6v,1641053666,MachineLearning,1,1,0.54,[Research] My Top 10 Computer Vision papers of 2021
+t3_rsqktc,1640944527,MachineLearning,120,19,0.95,[D] What are the recent breakthroughs for the generative models for art?
+t3_rsv2o4,1640960968,MachineLearning,10,22,0.82,[D] Machine learning alternative to MCMC or Nested Sampling?
+t3_rsjil0,1640919024,MachineLearning,51,11,0.81,[D] A pretty extensive 6 part blog series on AI accelerators
+t3_rsn8mc,1640931308,MachineLearning,12,14,0.88,"[D] MSE Difference Magnitude in ""Tabular Data: Deep Learning is Not All You Need"""
+t3_rsm8st,1640927829,MachineLearning,7,5,0.89,[D] Bayesian evidence calculation with normalizing flows
+t3_rs7juu,1640886463,MachineLearning,46,41,0.83,[D] Is Rust stable/mature enough to be used for production ML? Is making Rust-based python wrappers a good choice for performance heavy uses and internal ML dependencies in 2021?
+t3_rs65ei,1640882872,MachineLearning,48,10,0.88,[P] Adapting Class Activation Maps for Object Detection and Semantic Segmentation
+t3_rsn858,1640931259,MachineLearning,2,11,0.57,[D] Drop your best open source Deep learning related Project
+t3_rs6bu8,1640883353,MachineLearning,27,32,0.71,"[R] Does anyone know of any databases of political text which are labelled with the classes 'conservative', 'liberal' and 'neutral' for supervised learning?"
+t3_rrydgm,1640858960,MachineLearning,62,4,0.95,[P] Ecco - Language model analysis and visualization toolkit
+t3_rrrjrz,1640835802,MachineLearning,166,39,0.94,[D] Is spectral clustering still useful?
+t3_rs6k65,1640883921,MachineLearning,5,0,0.78,[D] Most important metrics for labeling data
+t3_rrxikg,1640855835,MachineLearning,3,8,0.8,[P] Mel Frequency Cepstral Coefficients Transformation
+t3_rs3qef,1640876447,MachineLearning,1,15,0.52,[R] Neural pseudo random number generator
+t3_rs21jj,1640871616,MachineLearning,1,4,0.6,"[D] Are there good attempts at recognizing ASL/other sign languages, beyond simple static signs like numbers and letters?"
+t3_rr17f9,1640758819,MachineLearning,305,33,0.96,[P] 4.5 times faster Hugging Face transformer inference by modifying some Python AST
+t3_rqycm4,1640749732,MachineLearning,162,187,0.73,[D] Elon Musk talking to Lex Fridman about AI at Tesla
+t3_rr8key,1640785646,MachineLearning,23,3,0.85,[P] I wrote a program with OpenAI's Codex that fixes errors
+t3_rr95gq,1640787423,MachineLearning,7,0,0.82,[P] Semantic search with finetune in realtime using CLIP
+t3_rrxzyy,1640857572,MachineLearning,0,4,0.22,[D] Machine learning use cases in telecom industry
+t3_rrcav2,1640795917,MachineLearning,3,10,0.67,[D] I made a modern data catalog tool for anyone using a word document or excel sheet as a data catalog. I’m curious if anyone would like to try it out.
+t3_rqnjst,1640719722,MachineLearning,101,31,0.96,"[D] How do you guys tune hyperparameters, when a single training run takes a long time (days to weeks)?"
+t3_rqjd7j,1640708200,MachineLearning,156,39,0.92,"[R] A new correlation coefficient: non-parametric, easily computable, values in the [0,1] interval, and conceptually simple."
+t3_rqsyn9,1640734326,MachineLearning,15,1,0.81,[D] Paper Explained - GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models (Video Walkthrough)
+t3_rqdpqs,1640690610,MachineLearning,140,48,0.96,[D] ML in Agriculture
+t3_rqvrwx,1640742198,MachineLearning,9,0,0.91,[P] X-MLPs - Highly configurable all-MLP architecture built on Jax and Haiku
+t3_rqtl0z,1640736007,MachineLearning,4,5,0.7,[D] How to create a question answering system with a (potentially very large) corpus of text?
+t3_rr0q7h,1640757212,MachineLearning,0,2,0.43,[D] Best resources or tools to draw nicer table for comparing different models/frameworks performance
+t3_rqycwh,1640749758,MachineLearning,2,2,0.75,[D] Which pretrained models are useful for getting low level image data?
+t3_rq1cnm,1640650150,MachineLearning,162,6,0.97,[D] Diffusion Models Beat GANs on Image Synthesis Explained: 5-minute paper summary (by Casual GAN Papers)
+t3_rq6uih,1640666161,MachineLearning,57,15,0.86,[D] Other AI methods/algorithms except deep neural network that are promising?
+t3_rqm5y6,1640715889,MachineLearning,1,11,0.54,[P] How do you measure fairness without access to demographic data?
+t3_rq68jj,1640664315,MachineLearning,20,8,0.77,[R] Modern Artificial Intelligence 1980s—2021 and Beyond (Schmidhuber’s Talk)
+t3_rq4wp4,1640660431,MachineLearning,5,4,0.67,[D] Has anyone got AutoKeras working on any sort of scale?
+t3_rq6hvs,1640665073,MachineLearning,4,2,0.75,"[P] open-source desktop app to read, display and export car sensor data"
+t3_rprmq3,1640623823,MachineLearning,38,20,0.91,"[D] SentencePiece, WordPiece, BPE... Which tokenizer is the best one?"
+t3_rpy5sc,1640641414,MachineLearning,10,2,0.76,Noether Networks: Meta-Learning Useful Conserved Quantities
+t3_rptzd6,1640630140,MachineLearning,17,8,0.88,[Project] Idris and XLA: linear algebra and probabilistic modelling w. dependent types
+t3_rpqudp,1640621635,MachineLearning,23,0,0.86,[D] Paper Explained - Federated Learning for Mobile Keyboard Prediction
+t3_rp9k4v,1640563680,MachineLearning,337,22,0.96,"[P] Fine-tuning ResNet50 for ""totally look alike"" dataset search"
+t3_rphiin,1640588922,MachineLearning,42,18,0.86,"[D] 2022 Research topics, or areas"
+t3_rq9shn,1640675673,MachineLearning,0,12,0.25,[Project] Color detection for wound detection
+t3_rq0b9k,1640647219,MachineLearning,1,4,0.6,[D] Is using model checkpoints on validation sets while doing 5-fold cross validation an issue?
+t3_rppsrl,1640618624,MachineLearning,4,0,0.7,[R] The new CPPE-5 dataset
+t3_rovtz1,1640520862,MachineLearning,479,24,0.97,"[Research] Looking for interesting ML papers to read for the break or the new year? Here is a curated list I made. (with video explanation, short read, paper, and code for each of them)"
+t3_rpum3a,1640631838,MachineLearning,0,2,0.5,[R] Article Suggestions for Where Graphs Meet Transformers
+t3_rp849m,1640559537,MachineLearning,36,25,0.9,[D] Research paper figure drawing
+t3_rpv5va,1640633283,MachineLearning,0,21,0.44,[R] Looking for papers that prove that Deep Learning cannot solve a given problem.
+t3_rp1ei8,1640539569,MachineLearning,24,3,0.85,[P] [Project Update!] PyTorch-Universal-Docker-Template: Build any Version of PyTorch from Source on any Version of CUDA/cuDNN and increase Speeds x10
+t3_rpl389,1640602799,MachineLearning,0,4,0.5,[D] Categorical features in image classification
+t3_ropcvb,1640493298,MachineLearning,102,4,0.93,[R] Researchers from the University of Chicago and Tel Aviv University Introduce ‘Text2Mesh’: A Novel Framework to Alter both Color and Geometry of 3D Meshes According to a Textual Target
+t3_rpa2pm,1640565213,MachineLearning,1,15,0.52,[D] Did Tesla Create it's own ML models from scratch or did they start by using another company's services?
+t3_rpctc4,1640573578,MachineLearning,0,5,0.5,[D] Is crowdsourced evaluation of model a good idea?
+t3_roy4nw,1640529464,MachineLearning,9,0,0.8,[P] Comparison Between Player of Games and AlphaZero
+t3_rp7wfs,1640558914,MachineLearning,0,1,0.33,[D] Anyone know any projects involving generating objects in the COCO segmentation dataset using GANs?
+t3_rox2gg,1640525778,MachineLearning,4,1,0.7,"[R] Knowledge Distillation, Model Ensemble and Its Application on Visual Recognition - Link to a free online lecture by the author in comments"
+t3_ro2567,1640405697,MachineLearning,1707,52,0.95,[R] JoJoGAN: One Shot Face Stylization
+t3_rotyst,1640512388,MachineLearning,6,4,0.81,[D] Is there a repo on which many light-weight self-attention mechanism are introduced?
+t3_ro9e4v,1640437202,MachineLearning,222,9,0.96,[P] Text Repunctuation and Recapitalization
+t3_roulqh,1640515370,MachineLearning,2,3,0.63,Apple AI Residency 2022 [R]
+t3_rorax0,1640500693,MachineLearning,4,3,0.75,[D] Can I use my own images for VQGAN CLIP generation?
+t3_ro7xei,1640430610,MachineLearning,39,7,0.91,[D] Paper Explained – Linear Algebra with Transformers
+t3_rogiq2,1640463102,MachineLearning,4,3,0.7,"[D] Weak supervision in practice, when to collect ""strongly"" labelled data?"
+t3_rv7nle,1641232648,deeplearning,5,2,0.73,Paper Summary [Rethinking Segmentation from a Sequence-to-Sequence Perspective with Transfromers]
+t3_rveip4,1641250474,deeplearning,2,1,1,PeopleSansPeople: Unity's Free and Open-Source Human-Centric Synthetic Data Generator. GitHub link in comments.
+t3_rvhd5j,1641258358,deeplearning,1,0,1,How do you evaluate an Image Augmentation approach in Deep Learning?
+t3_rv9t7l,1641238193,deeplearning,2,1,0.75,In search of models to high quality detection of face landmark/raw face
+t3_rur374,1641178507,deeplearning,30,2,0.93,I like YOLOv5 but the code complexity is...
+t3_rvbuvd,1641243508,deeplearning,1,0,1,3D Convolutions - Depth first or last?
+t3_ruzrm6,1641209805,deeplearning,4,0,1,Faster keyword extraction
+t3_ruy6pd,1641203738,deeplearning,4,0,0.84,Open Domain Question Answering Part-1 [BlenderBot 2.0]
+t3_rum5h6,1641164832,deeplearning,20,1,0.78,I built an AI Discord bot that bans NFT Bros
+t3_rupzwo,1641175400,deeplearning,6,5,1,Robust Person Following Under Severe Indoor Illumination Changes for Mobile Robots: Online Color-Based Identification Update
+t3_ruicf7,1641154727,deeplearning,9,6,0.9,"Sieve: Seamlessly process, organize, and search petabytes of video data"
+t3_ruzhq8,1641208779,deeplearning,0,0,0.25,Tech skill - ReLu Activation Function
+t3_ru8nph,1641126446,deeplearning,26,3,0.96,"The top 10 AI/Computer Vision papers in 2021 with video demos, articles, and code for each!"
+t3_ruocp7,1641170802,deeplearning,2,2,1,A small project that may be taken further for a large scale project - Wild Cats Image Classification using Deep Learning
+t3_ru7yb6,1641123476,deeplearning,1,0,1,"VentureBeat: How to discover AI code, know-how with CatalyzeX"
+t3_ru3ydd,1641106226,deeplearning,2,3,0.75,mAP calcaluations
+t3_rtos48,1641060534,deeplearning,19,0,1,Help me understand the neural tangent kernel in a practical sense
+t3_rtwsly,1641083159,deeplearning,4,0,0.75,"Which templates are better to create a data science web portfolio on GitHub Pages, Jekyll or Html5Up?"
+t3_rtvgb7,1641079321,deeplearning,3,1,1,Papers related to State of Charge estimation in Electric Vehicles using deep learning
+t3_rtmfc1,1641053678,deeplearning,2,2,0.63,My Top 10 Computer Vision papers of 2021
+t3_rt72ib,1640996385,deeplearning,15,13,0.89,(How)would you recommend reading the book Deep Learning by Ian Goodfellow for research?
+t3_rtriof,1641068295,deeplearning,0,4,0.29,What is the best place to start learning ai?
+t3_rt3xg3,1640986720,deeplearning,7,5,0.82,Any good reputable books on Tensorflow 2 / Deep Learning?
+t3_rsutyp,1640960223,deeplearning,26,5,0.84,"Custom .h5 for ""dickpics"""
+t3_rswck1,1640964743,deeplearning,12,0,1,[R] Microsoft’s Self-Supervised Bug Detection and Repair Approach Betters Baselines By Up to 30%
+t3_rsvtax,1640963181,deeplearning,5,1,0.86,How does Google use anchor text to rank pages with natural language processing
+t3_rtbdfk,1641011006,deeplearning,0,0,0.27,Machine Learning vs Deep Learning
+t3_rsoeao,1640935754,deeplearning,9,6,1,What would be the best performing face recognition model/architecture?
+t3_rt9b61,1641003762,deeplearning,0,2,0.17,Guys could you tell me how this function works and also is there anyother way to visualize these images in a row without using a function like this?
+t3_rsld44,1640924898,deeplearning,6,9,0.88,Mac vs Linux System
+t3_rsu8l4,1640958355,deeplearning,1,0,1,Pytorch-loae dataset with annotations in json file
+t3_rsejwl,1640904542,deeplearning,11,6,0.93,What are SOTA evolutionary algorithms for learning weights in DNNs?
+t3_rsq74o,1640942975,deeplearning,1,0,0.66,r/deeplearning Subdirect Statistics
+t3_rsiqpj,1640916679,deeplearning,3,3,1,"[Question] When you do Deep Q-learning, do you use step reward or cumulative reward to update the model?"
+t3_rsaqoe,1640894587,deeplearning,8,0,1,If you're looking to get into deep learning try this series.
+t3_rsi9yh,1640915306,deeplearning,2,0,1,"While progress in reading connectomes is laudable, where is progress reconstructing them from metadata (and actual data, such as biographies or videos of how the person tends to behave)?"
+t3_rs4tfa,1640879370,deeplearning,11,0,1,"[R] Fujitsu AI, Tokyo U &amp; RIKEN AIP Study Decomposes DNNs Into Modules That Can Be Recomposed Into New Models for Other Tasks"
+t3_rskzdv,1640923627,deeplearning,0,4,0.4,"can anyone tell me how does the reshape function work here. I didnt understand why we mention (-1 , 1) like what does that (-1, 1) do to the training sample"
+t3_rsk0b1,1640920521,deeplearning,1,1,0.67,Is there a deep learning algorithm that can propagate an initial bounding box across a sequence of images?
+t3_rsg95o,1640909273,deeplearning,1,2,1,Can artificial neural networks make better artificial neural networks than humans can make yet?
+t3_rrxz1u,1640857477,deeplearning,3,3,0.71,Machine learning use cases in telecom industry
+t3_rr2wme,1640765002,deeplearning,90,5,0.94,I wrote a program with OpenAI's Codex that fixes errors
+t3_rrcgl5,1640796308,deeplearning,13,2,1,[R] ETH Zurich Proposes Exemplar Transformers: Robust Visual Tracking That’s 8x Faster and CPU-Compatible
+t3_rr8b40,1640784844,deeplearning,0,0,0.5,"Looking to learn AI, improve your skills, or exchange with people in the field? Join our amazing community and do all that and more with fellow AI enthusiasts"
+t3_rqkcj1,1640710926,deeplearning,30,4,0.93,"Knowledge Distillation, Model Ensemble and Its Application on Visual Recognition - Link to a free online lecture by the author in comments"
+t3_rqxc0g,1640746680,deeplearning,2,1,1,OpenAI GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models
+t3_rqtrtv,1640736495,deeplearning,1,0,1,What is a Graph Neural Network?
+t3_rql0kj,1640712764,deeplearning,2,0,0.75,Paper Summary [Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation]
+t3_rqkwbq,1640712450,deeplearning,2,0,1,NeurIPS 2021 — Curated papers — Part 2
+t3_rpwjsl,1640637000,deeplearning,50,10,0.96,AWS Launched a Google Colab Competitor
+t3_rqfeyo,1640696589,deeplearning,0,0,0.33,Free Data Science Foundation Bootcamp!
+t3_rqbig3,1640682039,deeplearning,2,0,1,7 Best Free Computer Vision Courses
+t3_rqev2m,1640694793,deeplearning,1,0,1,Autoencoders for CIFAR-10
+t3_rq1k6w,1640650751,deeplearning,9,1,1,Diffusion Models Beat GANs on Image Synthesis Explained: 5-minute paper summary (by Casual GAN Papers)
+t3_rqct8g,1640686935,deeplearning,0,2,0.5,Question regarding implementation of sliding window and rcnn
+t3_rpzxgt,1640646150,deeplearning,6,1,1,Top 100 Deep Learning and AI Papers 2021 Ranked by Social Signals
+t3_rpnmbd,1640611902,deeplearning,34,3,1,"Visualization of different optimizers (SGD, SGD Momentum, Nesterov, AdaGrad, RMSProp, Adam)"
+t3_rpvq5s,1640634816,deeplearning,7,5,1,Use a large portion of code from a certain github project
+t3_rphjdd,1640589008,deeplearning,10,6,0.92,Attention/self attention/transformers
+t3_rpqvs4,1640621741,deeplearning,3,0,1,Paper Explained - Federated Learning for Mobile Keyboard Prediction
+t3_rpv0js,1640632888,deeplearning,1,3,0.67,Looking for papers that prove that Deep Learning cannot solve a given problem.
+t3_rptxiu,1640630004,deeplearning,0,0,0.5,Work station rental vs. building your own DL system?
+t3_rpp28k,1640616487,deeplearning,1,1,1,"Is it worth it to take the M1X Max with 64Gb of RAM for deep learning with TensorFlow, BERT fine tunning, and GANs?"
+t3_rpmf95,1640607811,deeplearning,0,1,0.5,Machine learning architectures
+t3_rpahfx,1640566428,deeplearning,3,3,0.72,A Simple Post for Beginners in Machine Learning and Scikit Learn - Prepare Data for Machine Learning using Scikit-Learn
+t3_ropc8l,1640493234,deeplearning,111,0,0.93,I reviewed that boy.
+t3_rp7z12,1640559100,deeplearning,0,11,0.5,RTX 3060 and 3080 for machine learning applications
+t3_rovtwl,1640520854,deeplearning,3,0,1,"[Research 2021] Looking for interesting ML papers to read for the break or the new year? Here are the best AI papers of 2021 with a clear video demo, short read, paper, and code for each of them."
+t3_rp2cam,1640542214,deeplearning,0,1,0.5,Laptop recommendation
+t3_rp0owf,1640537501,deeplearning,1,0,0.67,[D] Confused between machine learning with cloud or data engineering?
+t3_royykm,1640532192,deeplearning,0,3,0.33,Assess my DL machine build
+t3_rolg1y,1640479736,deeplearning,11,2,1,Influencing Gan's learning and generation
+t3_rosomk,1640506570,deeplearning,1,2,0.67,"Error with UTF-8 encoding, please help!"
+t3_ro9xvg,1640439418,deeplearning,9,1,0.85,What Can AI Really Do in 2021? AI Rewind + Highlights ft. Yuval Harari &amp; Kai-Fu Lee
+t3_roaw8e,1640443091,deeplearning,3,4,1,Intermediate project ideas
+t3_ro7om5,1640429492,deeplearning,7,1,1,Fine tuning YOLOv1 reimplementation
+t3_ro4gsv,1640414982,deeplearning,10,0,0.86,7 FREE Deep Learning Online Courses
+t3_ro9arc,1640436795,deeplearning,2,1,0.75,Looking for multiple Image illustration generator
+t3_rnovk0,1640360912,deeplearning,25,1,0.93,[R] OpenAI Releases GLIDE: A Scaled-Down Text-to-Image Model That Rivals DALL-E Performance
+t3_ro5h2m,1640419300,deeplearning,0,1,0.5,How transfer learning works on images it was not trained on
+t3_ro4h4v,1640415019,deeplearning,0,8,0.5,Need some guidance for my first project
+t3_rnxvhn,1640389997,deeplearning,2,0,0.75,Shape recognition with segmentation and classification
+t3_rnrtag,1640370062,deeplearning,4,1,0.75,Small trained transformer?
+t3_rnrlkz,1640369372,deeplearning,2,4,0.63,Phish: A Novel Hyper-Optimizable Activation Function
+t3_rngoo2,1640329685,deeplearning,17,0,0.78,Artificial Vision with Neocognitron by Kunihiko Fukushima (the father of convolutional neural networks)
+t3_rnozf6,1640361266,deeplearning,2,0,1,Binary Passage Retrieval in Weaviate
+t3_rns4t9,1640371092,deeplearning,1,0,0.6,Does Yolov4 runs on Mac m1?
+t3_rnmwns,1640354418,deeplearning,1,0,0.6,Wonders Of Nature - AI images generated by GauGAN2
+t3_rnm0dq,1640351306,deeplearning,1,0,0.67,"Finetuning ResNet50 on ""Totally Looks Like"" Dataset"
+t3_rmzqfu,1640278044,deeplearning,16,10,0.94,PyTorch or Tensorflow for production
+t3_rmyf3s,1640274352,deeplearning,7,0,1,[R] Advancing Deep Learning With Collective Intelligence: Google Brain Surveys Recent Developments
+t3_rn3orx,1640288862,deeplearning,0,1,0.43,Cool little infographic on how AI/ML could be applied at Christmas. Any other ideas?
+t3_rmnscr,1640235961,deeplearning,6,2,0.88,How to Research Deep Learning
+t3_rmqjoo,1640246001,deeplearning,3,3,1,Convert a SMILES dataset to graph
+t3_rmytn9,1640275498,deeplearning,0,1,0.2,Introduce a site or YouTube channel
+t3_rmsh5b,1640253947,deeplearning,1,3,0.67,Oddly getting a dramatic accuracy difference for the same model when it is deployed on MATLAB compared to TensorFlow &amp; Keras?
+t3_rmhybo,1640216397,deeplearning,4,3,0.75,What pytorch model can I use to classify a json array of objects?
+t3_rmdg2h,1640203297,deeplearning,5,5,0.86,Best DN architecture for multivariable time series prediction
+t3_rm83lb,1640188557,deeplearning,8,0,1,"[R] Facebook AI &amp; JHU’s MaskFeat Method Surpasses Kaiming He’s MAE, Sets New SOTA in Video Action Recognition"
+t3_rmeqqm,1640206996,deeplearning,3,0,1,How to process unordered features
